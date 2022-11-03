@@ -1,0 +1,24 @@
+header{
+
+    height: 80px;
+    text-align: center;
+    background-color: #ffff00;
+    height: 80px;
+    line-height: 80px;
+}
+footer{
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    height: 80px;
+    line-height: 80px;
+}
+main{
+    padding: 10px 0px;
+}
+.title01{
+    text-align: center;
+}
+.title02{
+text-align: center;
+}
